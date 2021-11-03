@@ -39,7 +39,7 @@ function ProductComponent() {
             <button className='btn'
                onClick={() => dispatch(izbrisiProduct(product.id))}
             >Remove Item</button>
-            <span className='razdelecenost'>
+            <span className='prostor'>
                <button
                   onClick={() => dispatch(addToCart(product.id))}
                   className='btn' >
