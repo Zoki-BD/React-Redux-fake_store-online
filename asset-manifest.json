@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Redux-fake_store-online/static/css/main.4ad13d17.chunk.css",
+    "main.js": "/React-Redux-fake_store-online/static/js/main.b7b590de.chunk.js",
+    "main.js.map": "/React-Redux-fake_store-online/static/js/main.b7b590de.chunk.js.map",
+    "runtime-main.js": "/React-Redux-fake_store-online/static/js/runtime-main.c8afd05c.js",
+    "runtime-main.js.map": "/React-Redux-fake_store-online/static/js/runtime-main.c8afd05c.js.map",
+    "static/js/2.243d0376.chunk.js": "/React-Redux-fake_store-online/static/js/2.243d0376.chunk.js",
+    "static/js/2.243d0376.chunk.js.map": "/React-Redux-fake_store-online/static/js/2.243d0376.chunk.js.map",
+    "index.html": "/React-Redux-fake_store-online/index.html",
+    "static/css/main.4ad13d17.chunk.css.map": "/React-Redux-fake_store-online/static/css/main.4ad13d17.chunk.css.map",
+    "static/js/2.243d0376.chunk.js.LICENSE.txt": "/React-Redux-fake_store-online/static/js/2.243d0376.chunk.js.LICENSE.txt",
+    "static/media/cart.0a8176bc.PNG": "/React-Redux-fake_store-online/static/media/cart.0a8176bc.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8afd05c.js",
+    "static/js/2.243d0376.chunk.js",
+    "static/css/main.4ad13d17.chunk.css",
+    "static/js/main.b7b590de.chunk.js"
+  ]
+}
